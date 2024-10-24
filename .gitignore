@@ -1,0 +1,12 @@
+# Ignore virtual environments
+.venv/
+
+# Ignore datasets
+datasets/
+
+# Ignore generated audio files
+generated_audio/
+
+# Ignore model directories
+fine_tuned_wav2vec2_model/
+wav2vec2_model/
